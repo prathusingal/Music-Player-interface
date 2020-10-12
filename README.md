@@ -15,4 +15,4 @@ Following is the preview of our music player:
 
 ![alt text](https://github.com/munish2301/Music-Player-Interface/blob/master/Cadence/images/Interface.png?raw=true)
 
-![alt text]https://github.com/prathusingal/Break-the-chain/blob/main/UML%20Diagrams%20and%20Project%20Summary/Activity%20Diagram.jpg?raw=true)
+![alt text](https://github.com/prathusingal/Break-the-chain/blob/main/UML%20Diagrams%20and%20Project%20Summary/Activity%20Diagram.jpg?raw=true)
